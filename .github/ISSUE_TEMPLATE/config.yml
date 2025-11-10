@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: WyvenCraft Community Discord
+    url: https://discord.gg/wyvencraft
+    about: Join our Discord server for general questions and community discussion
+  - name: WyvenCraft Wiki
+    url: https://github.com/WyvenCraft/official-server/wiki
+    about: Check out our wiki for server information, guides, and documentation
